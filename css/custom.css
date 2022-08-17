@@ -77,81 +77,10 @@ button {
     max-width: 80px;
 }
 
-/********** feature (skew background) **********/
-.feature img {
-    width: 100%;
-    max-width: 480px;
-}
-
-#feature-first {
-    background: linear-gradient(168deg, #ffffff 55%, #87FF2A 0);
-}
-
-#feature-last {
-    background: #87FF2A;
-}
-
-/********** price table **********/
-#price-table {
-    padding-top: 4rem !important;
-    padding-bottom: 4rem !important;
-}
-
-#price-table__premium {
-    background: #192440;
-    color: #ffffff;
-}
-
-#price-table ul li {
-    padding: 5px 0;
-}
-
-/********** contact **********/
-#contact {
-    background-size: cover;
-}
-
-#contact ul li {
-    padding: 3px 0;
-}
-
-#contact form {
-    color: #ffffff;
-}
-
-#contact form input,
-#contact form textarea {
-    background: transparent;
-    border: 1px solid #ffffff;
-    color: #ffffff;
-}
-
 /********** copyright **********/
 #copyright {
     background: #192440;
     padding: 2rem 3rem;
-}
-
-#copyright #social-media a {
-    width: 40px;
-    height: 40px;
-    border-radius: 99%;
-    background: #ffffff;
-    transition: .4s ease;
-}
-
-#copyright #social-media a i {
-    color: #192440;
-    font-size: 1.2rem;
-    line-height: 40px;
-}
-
-#copyright #social-media a:hover {
-    background: #87FF2A;
-}
-
-#copyright #social-media a:hover i {
-    color: #ffffff;
 }
 
 /********** RWD **********/
