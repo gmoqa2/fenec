@@ -147,7 +147,7 @@ button {
 }
 
 #copyright #social-media a:hover {
-    background: #00FFAD;
+    background: #87FF2A;
 }
 
 #copyright #social-media a:hover i {
@@ -159,4 +159,13 @@ button {
     #banner h1 {
         font-size: 3.6rem;
     }
+}
+
+.marker {
+    color: #CCFF00;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.green {
+    color: #87FF2A;
 }
