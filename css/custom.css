@@ -98,3 +98,7 @@ button {
 .green {
     color: #87FF2A;
 }
+
+.jumbotron {
+    border-radius: 0!important;
+}
